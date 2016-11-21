@@ -1,0 +1,9 @@
+C:\Users\Yiwit\Documents\Visual Studio 2013\Projects\Part_9\Part_9.6\bin\Debug\Part_9.6.exe.config
+C:\Users\Yiwit\Documents\Visual Studio 2013\Projects\Part_9\Part_9.6\bin\Debug\Part_9.6.exe
+C:\Users\Yiwit\Documents\Visual Studio 2013\Projects\Part_9\Part_9.6\bin\Debug\Part_9.6.pdb
+C:\Users\Yiwit\Documents\Visual Studio 2013\Projects\Part_9\Part_9.6\obj\Debug\Part_9.6.exe
+C:\Users\Yiwit\Documents\Visual Studio 2013\Projects\Part_9\Part_9.6\obj\Debug\Part_9.6.pdb
+C:\Users\Yiwit\Documents\Visual Studio 2013\Projects\Part_9\Part_9.6\obj\Debug\Part_9.6.csprojResolveAssemblyReference.cache
+C:\Users\Yiwitt\Desktop\Part_9\Part_9.6\bin\Debug\Part_9.6.exe.config
+C:\Users\Yiwitt\Desktop\Part_9\Part_9.6\obj\Debug\Part_9.6.exe
+C:\Users\Yiwitt\Desktop\Part_9\Part_9.6\obj\Debug\Part_9.6.pdb

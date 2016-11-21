@@ -1,0 +1,1 @@
+Ýçinde login giriþ ekran kontrolü,sayýlarýn palindrom olup olmadýðýný kontrol eden,sayý çözümle uygulamasý olan,basit sayý tahmin oyunu yer alan ve detaylý otopark kayýt takip sistemi olan konsol uygulamalarý yer almaktadýr!:) Herhangi bir soru iþaretinde "yiwit.tas@gmail.com" adresine ulaþmaktan çekinmeyin :)

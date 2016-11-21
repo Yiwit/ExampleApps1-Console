@@ -1,0 +1,3 @@
+C:\Users\Yiwitt\Desktop\Part_9\OtoparkKayıtTakip\bin\Debug\Part_9.4.exe.config
+C:\Users\Yiwitt\Desktop\Part_9\OtoparkKayıtTakip\obj\Debug\Part_9.4.exe
+C:\Users\Yiwitt\Desktop\Part_9\OtoparkKayıtTakip\obj\Debug\Part_9.4.pdb

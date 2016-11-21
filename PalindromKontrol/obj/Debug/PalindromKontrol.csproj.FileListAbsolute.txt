@@ -1,0 +1,3 @@
+C:\Users\Yiwitt\Desktop\Part_9\PalindromKontrol\bin\Debug\Part_9.3.exe.config
+C:\Users\Yiwitt\Desktop\Part_9\PalindromKontrol\obj\Debug\Part_9.3.exe
+C:\Users\Yiwitt\Desktop\Part_9\PalindromKontrol\obj\Debug\Part_9.3.pdb

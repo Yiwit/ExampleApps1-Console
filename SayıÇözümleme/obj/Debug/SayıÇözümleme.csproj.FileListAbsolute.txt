@@ -1,0 +1,3 @@
+C:\Users\Yiwitt\Desktop\Part_9\SayıÇözümleme\bin\Debug\Part_9.2.exe.config
+C:\Users\Yiwitt\Desktop\Part_9\SayıÇözümleme\obj\Debug\Part_9.2.exe
+C:\Users\Yiwitt\Desktop\Part_9\SayıÇözümleme\obj\Debug\Part_9.2.pdb

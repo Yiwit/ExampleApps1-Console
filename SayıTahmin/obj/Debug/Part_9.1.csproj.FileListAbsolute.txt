@@ -1,0 +1,9 @@
+c:\users\yiwit\documents\visual studio 2013\Projects\Part_9\Part_9.1\bin\Debug\Part_9.1.exe.config
+c:\users\yiwit\documents\visual studio 2013\Projects\Part_9\Part_9.1\bin\Debug\Part_9.1.exe
+c:\users\yiwit\documents\visual studio 2013\Projects\Part_9\Part_9.1\bin\Debug\Part_9.1.pdb
+c:\users\yiwit\documents\visual studio 2013\Projects\Part_9\Part_9.1\obj\Debug\Part_9.1.csprojResolveAssemblyReference.cache
+c:\users\yiwit\documents\visual studio 2013\Projects\Part_9\Part_9.1\obj\Debug\Part_9.1.exe
+c:\users\yiwit\documents\visual studio 2013\Projects\Part_9\Part_9.1\obj\Debug\Part_9.1.pdb
+C:\Users\Yiwitt\Desktop\Part_9\Part_9.1\bin\Debug\Part_9.1.exe.config
+C:\Users\Yiwitt\Desktop\Part_9\Part_9.1\obj\Debug\Part_9.1.exe
+C:\Users\Yiwitt\Desktop\Part_9\Part_9.1\obj\Debug\Part_9.1.pdb

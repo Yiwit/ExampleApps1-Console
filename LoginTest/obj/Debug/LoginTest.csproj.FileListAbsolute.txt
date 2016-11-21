@@ -1,0 +1,6 @@
+C:\Users\Yiwitt\Desktop\Part_9\LoginTest\bin\Debug\Part_9.6.exe.config
+C:\Users\Yiwitt\Desktop\Part_9\LoginTest\obj\Debug\Part_9.6.exe
+C:\Users\Yiwitt\Desktop\Part_9\LoginTest\obj\Debug\Part_9.6.pdb
+C:\Users\Yiwitt\Documents\Visual Studio 2015\Projects\ÖrnekUygulamalar\LoginTest\bin\Debug\Part_9.6.exe.config
+C:\Users\Yiwitt\Documents\Visual Studio 2015\Projects\ÖrnekUygulamalar\LoginTest\obj\Debug\Part_9.6.exe
+C:\Users\Yiwitt\Documents\Visual Studio 2015\Projects\ÖrnekUygulamalar\LoginTest\obj\Debug\Part_9.6.pdb
