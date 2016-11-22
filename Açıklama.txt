@@ -1,1 +1,5 @@
-İçinde login giriş ekran kontrolü,sayıların palindrom olup olmadığını kontrol eden,sayı çözümle uygulaması olan,basit sayı tahmin oyunu yer alan ve detaylı otopark kayıt takip sistemi olan konsol uygulamaları yer almaktadır!:) Herhangi bir soru işaretinde "yiwit.tas@gmail.com" adresine ulaşmaktan çekinmeyin :)
+Ä°Ã§inde login giriÅŸ ekran kontrolÃ¼,sayÄ±larÄ±n palindrom olup olmadÄ±ÄŸÄ±nÄ± kontrol eden,sayÄ± Ã§Ã¶zÃ¼mle uygulamasÄ± olan,basit sayÄ± tahmin oyunu yer alan ve detaylÄ± otopark kayÄ±t takip sistemi olan konsol uygulamalarÄ± yer almaktadÄ±r!:) Herhangi bir soru iÅŸaretinde "yiwit.tas@gmail.com" adresine ulaÅŸmaktan Ã§ekinmeyin :)
+
+
+
+There are console apps that control the login login screen, check whether the numbers are palindromes, number solution application, simple number guessing game and detailed parking record tracking system :) Any question mark "yiwit.tas@gmail.com" pls do not shy for contact :)
